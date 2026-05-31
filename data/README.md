@@ -6,6 +6,7 @@ This project uses the **RAF-DB (Real-world Affective Faces Database)**.
 1. Request access at: http://www.whdeng.cn/RAF/model1.html
 2. Download and extract the dataset
 3. Organize it as:
+ ```
    data/
    └── RAFDB/
        ├── train/
@@ -16,3 +17,4 @@ This project uses the **RAF-DB (Real-world Affective Faces Database)**.
            ├── anger/
            ├── disgust/
            └── ... (7 classes)
+```
